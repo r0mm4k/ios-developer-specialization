@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+struct Todos: Codable {
+    let todos: [Todo]
+}
+
+struct Todo: Codable {
+    let label: String
+    let priority: Int
+}
