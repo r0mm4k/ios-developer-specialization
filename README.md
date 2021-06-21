@@ -10,7 +10,7 @@ Solutions to Сoursera's "Swift 5 iOS Application Developer Specialization" proj
 
 Type | Number | Completion
 :--- | :---: | :---:
-Projects | 6 / 7 | 86%
+Projects | 6 / 6 | 100%
 
 ## Preview
 
